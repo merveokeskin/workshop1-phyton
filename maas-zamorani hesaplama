@@ -1,4 +1,0 @@
-maas = int(input("Maaşınızı Girin:"))
-zamorani = int(input("Zam oranını girin:"))
-guncelmaas = maas + (maas * zamorani) / 100
-print(guncelmaas)
